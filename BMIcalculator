@@ -1,0 +1,8 @@
+function bmiCalc(Weight , Height){
+
+var BMI = (Weight/(Height*Height));
+
+console.log("Hi Budy ! your BMI is "+ BMI);
+
+}
+bmiCalc(56 , 1.65);
